@@ -7,7 +7,7 @@
 
 *Just type some text into textbox so as to time difference between two events.*
 
-#**working demo: http://jsfiddle.net/hellyeah/hLuds5h7/*
+#**working demo: http://jsfiddle.net/hellyeah/hLuds5h7/**
 
 #**https://css-tricks.com/the-difference-between-throttling-and-debouncing/**
 
