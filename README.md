@@ -1,8 +1,5 @@
 # Time-Difference-between-Events
 
-
-###**English Explanation**
-
 #####*Functionality Overview*
 
 *Just type some text into textbox so as to time difference between two events.*
