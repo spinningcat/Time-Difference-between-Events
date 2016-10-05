@@ -8,7 +8,7 @@
 
 ###**[Difference between throttling and debouncing](https://css-tricks.com/the-difference-between-throttling-and-debouncing/)**
 
-###**[example throttling, debouncing](http://codepen.io/chriscoyier/pen/vOZNQV/)**
+###**[Example: Throttling, debouncing](http://codepen.io/chriscoyier/pen/vOZNQV/)** -> with the help of [underscore.js](http://underscorejs.org/)
 
 #####*Semantic Overview*
 
