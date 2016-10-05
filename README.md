@@ -6,9 +6,9 @@
 
 ###**[working demo](http://jsfiddle.net/hellyeah/hLuds5h7/)**
 
-###**[https://css-tricks.com/the-difference-between-throttling-and-debouncing/](Difference between throttling and debouncing)**
+###**[Difference between throttling and debouncing](https://css-tricks.com/the-difference-between-throttling-and-debouncing/)**
 
-###**[http://codepen.io/chriscoyier/pen/vOZNQV/](example throttling, debouncing)**
+###**[example throttling, debouncing](http://codepen.io/chriscoyier/pen/vOZNQV/)**
 
 #####*Semantic Overview*
 
